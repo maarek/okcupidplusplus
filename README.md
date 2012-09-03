@@ -1,0 +1,4 @@
+okcupidplusplus
+=========
+
+Safari okcupid extension
